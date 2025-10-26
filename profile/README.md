@@ -21,9 +21,9 @@ Abaixo você encontra a estrutura hierárquica e os membros responsáveis por ca
 
 | Cargo | Membro | Responsabilidades |
 |-------|---------|-------------------|
-| **CEO / Financeiro** | [Murillo Weiss Kist](https://github.com/MurilloKist) | Gestão financeira, administração geral |
-| **CEO** | [Herick Eduardo Vavassori](#) | Ajuda no que da. |
-| **CEO / Criação de sistemas para eventos** | [Luiz Felipe Della Valentina Gervazio](#) | Cria sistemas para auxiliar e melhorar nossos eventos no servidor |
+| **CEO / Financeiro** | [ZzPowerTechzZ](https://github.com/MurilloKist) | Gestão financeira, administração geral |
+| **CEO** | [herick_gamer](https://github.com/DarknessBH) | Ajuda no que da. |
+| **CEO / Criação de sistemas para eventos** | [Lord_BR](https://github.com/luizGervazio) | Cria sistemas para auxiliar e melhorar nossos eventos no servidor |
 
 ---
 
