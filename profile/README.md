@@ -21,7 +21,7 @@ Abaixo você encontra a estrutura hierárquica e os membros responsáveis por ca
 
 | Cargo | Membro | Responsabilidades |
 |-------|---------|-------------------|
-| **CEO / Financeiro** | [ZzPowerTechzZ](https://github.com/MurilloKist) | Gestão financeira, administração geral |
+| **CEO / Financeiro** | [ZzPowerTechzZ](https://github.com/ZzPowerTech) | Gestão financeira, administração geral |
 | **CEO** | [herick_gamer](https://github.com/DarknessBH) | Ajuda no que da. |
 | **CEO / Criação de sistemas para eventos** | [Lord_BR](https://github.com/luizGervazio) | Cria sistemas para auxiliar e melhorar nossos eventos no servidor |
 
