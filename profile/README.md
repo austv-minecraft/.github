@@ -54,7 +54,7 @@ Abaixo você encontra a estrutura hierárquica e os membros responsáveis por ca
 |-------|---------|-------------------|
 | **Tester Sênior** | Shinigami_666 | Testes de balanceamento, bugs críticos e mecânicas principais |
 | **Tester Júnior** | Joca_the_best | Reporte de erros, validação de sistemas, e feedbacks de jogabilidade |
-| **Marketing** | zetsunin | Responsável pela criação de conteúdos para as nossas redes sociais |
+| **Marketing** | zetsuzinn | Responsável pela criação de conteúdos para as nossas redes sociais |
 
 ---
 
