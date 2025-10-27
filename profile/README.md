@@ -31,7 +31,7 @@ Abaixo você encontra a estrutura hierárquica e os membros responsáveis por ca
 
 | Cargo | Membro | Responsabilidades |
 |-------|---------|-------------------|
-| **Recursos Humanos** | [MarcusKz] | Faz o gerenciamento da equipe do servidor, mantem todo mundo nos trilhos. |
+| **Head de Moderação** | [MarcusKz] | Faz o gerenciamento da equipe do servidor, mantem todo mundo nos trilhos. |
 | **Marketing / Assets** | [Andrelsb] | Nosso diretor criativo, lida com toda a parte visual do servidor e organiza o setor de marketing. |
 
 ---
